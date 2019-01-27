@@ -24,8 +24,8 @@ YOUR ANSWER GOES HERE ...
 YOUR ANSWER GOES HERE ...
 
  * Short (1 - 2 min' read max)
- * Be specific (e.g. )
- * Feel free (but not obligated) to use personas.        
+ * Be specific (e.g. a 'a third-year university student studying Computer Science' and not 'a student')
+ * Feel free (but not obligated) to use personas.         
    You can create your personas as part of this Markdown file, or add a link to an external site (for example, [Xtensio](https://xtensio.com/user-persona/)).
 
 #### Q3: Why would your users choose your product? What are they using today to solve their problem/need?
@@ -39,6 +39,12 @@ YOUR ANSWER GOES HERE ...
     * Allow users to discover new information (which information? And, why couldn't they discover it before?)
     * Provide users with more accurate and/or informative data (what kind of data? Why is it useful to them?)
 
+#### Q4: How will you build it?
+
+YOUR ANSWER GOES HERE ...
+
+ * Short (1-2 min' read max)
+ * 
 
 ----
 
