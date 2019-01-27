@@ -2,6 +2,7 @@
 
  > _Note:_ This document is meant to evolve throughout the planning phase of your project.    
  > That is, it makes sense for you commit regularly to this file while working on the project (especially edits/additions/deletions to the _Highlights_ section).
+ > Most importantly, it is a reflection of all the planning you work you've done in the first iteration. 
 
 #### Q1: What are you planning to build?
 
