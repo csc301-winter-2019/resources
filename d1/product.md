@@ -38,13 +38,18 @@ YOUR ANSWER GOES HERE ...
     * Save users time (how much?)
     * Allow users to discover new information (which information? And, why couldn't they discover it before?)
     * Provide users with more accurate and/or informative data (what kind of data? Why is it useful to them?)
+    * Does this application exist in another form? If so, how does your differ and provide value to the users?
 
 #### Q4: How will you build it?
 
 YOUR ANSWER GOES HERE ...
 
  * Short (1-2 min' read max)
- * 
+ * What is the technology stack? Specify any and all languages, frameworks, libraries, PaaS products or tools. 
+ * How will you deploy the application?
+ * Describe the architecture - what are the high level components or patterns you will use? Diagrams are useful here. 
+ * Will you be using third party applications or APIs? If so, what are they?
+ * What is your testing strategy?
 
 ----
 
