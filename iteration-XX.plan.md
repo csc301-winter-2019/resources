@@ -1,26 +1,31 @@
 # YOUR PRODUCT/TEAM NAME
 
- > _Note:_ This document is meant to be written during (or shortly after) your initial planning meeting.     
- > It does not really make sense for you to edit this document much (if at all) while working on the project - Instead, at the end of the planning phase, you can refer back to this document and decide which parts of your plan you are happy with and which parts you would like to change.
-
-
-## Iteration XX
-
- * Start date: FILL IN THE DATE WHEN YOU HAD YOUR FIRST TEAM PLANNING MEETING
- * End date: FILL IN THE DATE WHEN YOU ARE PLANNING TO HAVE YOUR REVIEW MEETING
-
 ## Process
-
-_This entire section is optional. Note that you will have to fill it out and more for the next 3 deliverables so it's good to start soon and get feedback._ 
 
 #### Roles & responsibilities
 
-Describe the different roles on the team and the responsibilities associated with each role.
+Describe the different roles on the team and the responsibilities associated with each role. List each member and:
+ * A description of their role and responsibilities including the components they'll work on and non-softare related work
+ * 3 technical strengths and weaknesses each (e.g. languages, frameworks, libraries, development methodologies, etc.)
+
+#### Team Rules
+
+Describe your team's working culture.
+
+Communications:
+ * What is the expected frequency? What methods/channels are appropriate? 
+ * If you have a partner project, what is your process (in detail) for communicating with your partner?
+ 
+Meetings:
+ * How are people held accountable for attending meetings, completing action items? Is there a moderator or process?
+ 
+Conflict Resolution:
+ * List atleast three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? Other scenarios you can think of? etc.
+
 
 #### Events
 
 Describe meetings (and other events) you are planning to have:
-
  * When and where? In-person or online?
  * What's the purpose of each meeting?
  * Other events could be coding sessions, code reviews, quick weekly sync' meeting online, etc.
@@ -37,8 +42,6 @@ List/describe the artifacts you will produce in order to organize your team.
 
 
 ## Product
-
-_This entire section is mandatory._
 
 #### Goals and tasks
 
