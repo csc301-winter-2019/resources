@@ -5,9 +5,10 @@
 #### Roles & responsibilities
 
 Describe the different roles on the team and the responsibilities associated with each role. 
+ * Roles should reflect the structure of your team and be appropriate for your project. Not necessarily one role to one team member.
 
-List each member and:
- * A description of their role and responsibilities including the components they'll work on and non-software related work
+List each team member and:
+ * A description of their role(s) and responsibilities including the components they'll work on and non-software related work
  * 3 technical strengths and weaknesses each (e.g. languages, frameworks, libraries, development methodologies, etc.)
 
 #### Team Rules
