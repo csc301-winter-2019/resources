@@ -5,7 +5,7 @@
 #### Roles & responsibilities
 
 Describe the different roles on the team and the responsibilities associated with each role. List each member and:
- * A description of their role and responsibilities including the components they'll work on and non-softare related work
+ * A description of their role and responsibilities including the components they'll work on and non-software related work
  * 3 technical strengths and weaknesses each (e.g. languages, frameworks, libraries, development methodologies, etc.)
 
 #### Team Rules
@@ -20,7 +20,7 @@ Meetings:
  * How are people held accountable for attending meetings, completing action items? Is there a moderator or process?
  
 Conflict Resolution:
- * List atleast three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? Other scenarios you can think of? etc.
+ * List at least three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? And other scenarios you can think of.
 
 
 #### Events
