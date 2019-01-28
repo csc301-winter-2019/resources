@@ -23,7 +23,7 @@ Meetings:
  * How are people held accountable for attending meetings, completing action items? Is there a moderator or process?
  
 Conflict Resolution:
- * List at least three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? Other scenarios you can think of? etc.
+ * List at least three team scenarios/conflicts you discussed in lecture and how you decided you will resolve them. Indecisions? Non-responsive team members? And other scenarios you can think of?
 
 
 #### Events
