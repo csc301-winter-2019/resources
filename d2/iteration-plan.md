@@ -63,7 +63,7 @@ Describe your Git / GitHub workflow. Essentially, we want to understand how your
  * If applicable, specify any naming conventions or standards you decide to adopt.
  * Describe your overall deployment process from writing code to viewing a live applicatioon
  * What deployment tool(s) are you using and why
- * Don't forget to **explain why** you chose this workflow or particular aspecets of it!
+ * Don't forget to **explain why** you chose this workflow or particular aspects of it!
 
 
 
